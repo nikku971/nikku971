@@ -2,8 +2,7 @@
 
 
 - 🔭 I’m currently working on my competitive programming skills and web development.
-- 🌱 I’m currently learning java script.
-- 👯 I’m looking to collaborate
+- 🌱 I’m currently learning java script
 - 🤔 I’m looking for help with ML
 - 💬 Ask me about programming 
 - 📫 How to reach me: Through social media
